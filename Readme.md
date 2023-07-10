@@ -1,4 +1,4 @@
-![Vahid Ebrahimian]<img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="500" height="320" />
 
 <h2> Hi, I'm Vahid Ebrahimian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Ms.Software Enginner at <a href="http://pnu.ac.ir/portal/home/">Payame Noor University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -16,11 +16,10 @@
 
 
 
-
+---
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
-
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
