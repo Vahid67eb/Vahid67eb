@@ -24,7 +24,6 @@
 
 **languages and tools:**
 
-```javascript
 const VahidEbrahimian = {
   pronouns: "he" | "man",
   Language: [ C++ , Python , Java, Kotlin ]
@@ -35,8 +34,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
   tools: [VSCode, Colab, JetBrains, AndroidStudio , Visual Studio , Git]
-}
-```
+
 
 
 
