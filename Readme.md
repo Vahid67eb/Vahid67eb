@@ -27,16 +27,17 @@
 ```javascript
 const VahidEbrahimian = {
   pronouns: "he" | "man",
-  Language: [ C++ , Python , Java, Kotlin ],
-
-  tools: [VSCode, Colab, JetBrains, AndroidStudio , Visual Studio , Git]
-}
-```
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  Language: [ C++ , Python , Java, Kotlin ]
+<code><img height="20" 	src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
+  tools: [VSCode, Colab, JetBrains, AndroidStudio , Visual Studio , Git]
+}
+```
+
 
 
  challenge: "I am doing the #100DaysOfCode challenge focused on AI and Machine Learning And Image Processing"
