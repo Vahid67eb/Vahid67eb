@@ -13,29 +13,25 @@
 ---
 <img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="400" height="320" />
 
----
+
 
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+**languages and tools:**
 
 ```javascript
 const VahidEbrahimian = {
   pronouns: "he" | "man",
-  Language: [ C++, Python, Java, Kotlin],
-  tools: [VS Code, Colab, JetBrains, AndroidStudio , Visual Studio]
+  Language: [ C++ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>, Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, Java <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>, Kotlin <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>],
+
+  tools: [VSCode, Colab, JetBrains, AndroidStudio , Visual Studio , Git]
 }
 ```
-**languages and tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  challenge: "I am doing the #100DaysOfCode challenge focused on AI and Machine Learning And Image Processing"
 
