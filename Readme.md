@@ -10,8 +10,9 @@
 [![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)](https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
 [![GitHub Vahid67Eb](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Vahid67eb)
 
+---
 <img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="400" height="320" />
-
+---
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
