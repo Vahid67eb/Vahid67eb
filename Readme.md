@@ -26,11 +26,13 @@
 **languages and tools:**
 
 ```javascript
-const VahidEbrahimian ={ 
+const VahidEbrahimian ={
+
   pronouns: "he" | "man",
+
   Language: [ C++ , Python , Java, Kotlin ]
 
-  tools: [VSCode, Colab, JetBrains, AndroidStudio , Visual Studio , Git]
+  tools: [ VSCode, Colab, JetBrains, AndroidStudio , Visual Studio , Git ]
 }
 ```
 <code><img height="20" 	src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -51,10 +53,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆  10000 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 200 tasks so far           
+⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
 
