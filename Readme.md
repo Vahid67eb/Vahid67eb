@@ -1,4 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="500" height="320" />
+---
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vahid67eb}1212%2Fhit-counter
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={vahid67eb}&theme={gruvbox}
+
+---
 
 <h2> Hi, I'm Vahid Ebrahimian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Master of Software Enginner at <a href="http://pnu.ac.ir/portal/home/">Payame Noor University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -11,10 +17,6 @@
 [![Twitter: Vahid67eb](https://img.shields.io/twitter/follow/Vahid67eb?style=social)](https://twitter.com/Vahid67eb)
 [![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)](https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
 [![GitHub Vahid67Eb](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Vahid67eb)
-
----
-https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
-
 
 ---
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
@@ -41,7 +43,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={vahid67eb}&theme={merko}
  challenge: "I am doing the #100DaysOfCode challenge focused on AI and Machine Learning And Image Processing"
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vahid67Eb&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -62,7 +64,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 **📈 my github stats**
 
 ![Vahid Ebrahimian](https://github-readme-stats.vercel.app/api?username=Vahid67Eb&show_icons=true&theme=shades-of-purple)	
-
 
 ---
 - 🔭 I’m currently working on ... Freelancers
