@@ -1,9 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="500" height="320" />
 ---
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vahid67eb}1212%2Fhit-counter
-
+<a 
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={vahid67eb}&theme={gruvbox}
-
+a/>
 ---
 
 <h2> Hi, I'm Vahid Ebrahimian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
