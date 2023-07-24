@@ -51,7 +51,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
     <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="Visual Studio" width="50" height="50">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">
 </p>
----
 
  challenge: "I am doing the #100DaysOfCode challenge focused on AI and Machine Learning And Image Processing"
  
