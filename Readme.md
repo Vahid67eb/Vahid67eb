@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/Vahid67eb/Vahid67eb/blob/fda701954711c17cc39366f4d15dc1f9e1ac2370/code.gif?raw=true" width="500" height="320" />
 
 <h2> Hi, I'm Vahid Ebrahimian! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Ms.Software Enginner at <a href="http://pnu.ac.ir/portal/home/">Payame Noor University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Master of Software Enginner at <a href="http://pnu.ac.ir/portal/home/">Payame Noor University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.instagram.com/Vahid67Eb/">
@@ -13,7 +13,7 @@
 [![GitHub Vahid67Eb](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Vahid67eb)
 
 ---
-
+https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
 
 
 ---
