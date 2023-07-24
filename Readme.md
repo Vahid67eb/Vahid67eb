@@ -54,9 +54,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 🚧 **my todoist stats:**
 
 <!-- TODO-IST:START -->
-🏆  10000 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 200 tasks so far           
+🏆  10000 Karma Points                
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
@@ -72,17 +70,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - 👯 I’m looking to collaborate on ... AI Fields ( Machine Learning , Image Processing and ...)
 - 🤔 I’m looking for help with ... AI and Deep Learning
 - 💬 Ask me about ... python , AI And Android
-- 📫 How to reach me: ... [twitter](@Vahid67Eb)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am half Finish
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   6 hrs 55 mins   ██████████████████▓░░░░░░   74.06 %
-Bash         52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-```
