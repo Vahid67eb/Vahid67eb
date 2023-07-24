@@ -34,12 +34,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ! ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ---
 
-```javascript
-const VahidEbrahimian ={
-
-  pronouns: "he" | "man",
-
   Language: [ C++ , Python , Java, Kotlin ]
+  
+<code><img height="20" 	src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
   tools: <h3>Technologies I use:</h3>
 <p>
@@ -50,15 +51,10 @@ const VahidEbrahimian ={
     <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="Visual Studio" width="50" height="50">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">
 </p>
-}
-```
-<code><img height="20" 	src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+---
 
  challenge: "I am doing the #100DaysOfCode challenge focused on AI and Machine Learning And Image Processing"
+ 
  ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vahid67eb&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
