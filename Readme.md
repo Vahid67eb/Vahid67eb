@@ -9,8 +9,12 @@
 <a href="https://www.instagram.com/Vahid67Eb/">
   <img align="left" alt="Vahid67Eb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb) 
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
+
 [![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian bluestyle=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)]
+
 <a href="https://github.com/vahid67eb">
   <img src="https://img.shields.io/github/followers/vahid67eb?style=social&logo=github" alt="GitHub followers">
 </a>
@@ -60,11 +64,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 🏆  10000 Karma Points                
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
-
-
-**📈 my github stats**
-
-![Vahid Ebrahimian](https://github-readme-stats.vercel.app/api?username=Vahid67Eb&show_icons=true&theme=shades-of-purple)	
 
 ---
 - 🔭 I’m currently working on ... Freelancers
