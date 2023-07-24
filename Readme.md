@@ -10,7 +10,7 @@
 
 [![Twitter: Vahid67eb](https://img.shields.io/twitter/follow/Vahid67eb?style=social)](https://twitter.com/Vahid67eb)
 [![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)](https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
-[![GitHub Vahid67Eb](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Vahid67eb)
+[![GitHub Vahid67Eb](![GitHub followers](https://img.shields.io/github/followers/vahid67eb)
 
 ---
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
