@@ -4,14 +4,13 @@
 <p><em>Master of Software Enginner at <a href="http://pnu.ac.ir/portal/home/">Payame Noor University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+## 🌐 Socials:
+
 <a href="https://www.instagram.com/Vahid67Eb/">
   <img align="left" alt="Vahid67Eb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@vahid67eb)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb) 
-[![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian-blue style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)](https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
+[![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian bluestyle=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)]
 <a href="https://github.com/vahid67eb">
   <img src="https://img.shields.io/github/followers/vahid67eb?style=social&logo=github" alt="GitHub followers">
 </a>
