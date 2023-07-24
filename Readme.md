@@ -17,7 +17,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
-[![Linkedin: VahidEbrahimian](https://img.shields.io/badge/-VahidEbrahimian bluestyle=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahid-ebrahimian-842664239/)]
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
 
 
 
@@ -81,5 +81,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
