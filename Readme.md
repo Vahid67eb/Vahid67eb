@@ -5,19 +5,17 @@
 </em></p>
 
 [![](https://visitcount.itsvg.in/api?id=vahid67eb&icon=1&color=1)](https://visitcount.itsvg.in)
-
+<a href="https://github.com/vahid67eb">
+  <img src="https://img.shields.io/github/followers/vahid67eb?style=social&logo=github" alt="GitHub followers">
+</a>
 ## 🌐 Socials:
 
 <a href="https://www.instagram.com/Vahid67Eb/">
   <img align="left" alt="Vahid67Eb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://github.com/vahid67eb">
-  <img src="https://img.shields.io/github/followers/vahid67eb?style=social&logo=github" alt="GitHub followers">
-</a>
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
-[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
 
 
 
