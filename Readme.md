@@ -74,5 +74,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am half Finish
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
