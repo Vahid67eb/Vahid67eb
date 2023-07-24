@@ -48,13 +48,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  challenge: "I am doing the #100DaysOfCode challenge focused on AI and Machine Learning And Image Processing"
  ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vahid67eb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vahid67eb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vahid67eb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vahid67eb&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vahid67eb&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vahid67eb&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vahid67Eb&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 🚧 **my todoist stats:**
@@ -78,3 +75,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
