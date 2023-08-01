@@ -10,11 +10,21 @@
 </a>
 ## 🌐 Socials:
 <a href="https://www.instagram.com/Vahid67Eb/">
-  <img align="left" alt="Vahid67Eb's Instagram" width="70px" height="70px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+  <img align="left" alt="Vahid67Eb's Instagram" width="50px" height="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid){:height="100px" width="100px"}
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb){:height="100px" width="100px"}
-{[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/):height="100px" width="100px"}
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid){:height="70px" width="70px"}
+
+<a class="twitter-follow-button"
+  href="https://twitter.com/yourusername"
+  data-size="large"
+  data-show-count="false"
+  data-lang="en"
+  data-dnt="true">
+Follow @yourusername</a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
 
 
 ---
