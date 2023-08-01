@@ -8,6 +8,7 @@
 <a href="https://github.com/vahid67eb">
   <img src="https://img.shields.io/github/followers/vahid67eb?style=social&logo=github" alt="GitHub followers">
 </a>
+
 ## 🌐 Socials:
 <a href="https://www.instagram.com/Vahid67Eb/">
   <img align="left" alt="Vahid67Eb's Instagram" width="30px" height="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
@@ -15,24 +16,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
-
----
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: space-between; max-width: 600px; width: 100%;">
-    <a href="https://www.instagram.com/Vahid67Eb/">
-      <img alt="Vahid67Eb's Instagram" width="100px" height="100px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-    </a>
-    <a href="https://twitter.com/@ebrahimianvahid">
-      <img alt="EbrahimianVahid's Twitter" width="70px" height="70px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-    </a>
-    <a href="https://youtube.com/@vahid67eb">
-      <img alt="vahid67eb's YouTube" width="70px" height="70px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/">
-      <img alt="Vahid Ebrahimian's LinkedIn" width="70px" height="70px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-    </a>
-  </div>
-</div>
 
 ---
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
