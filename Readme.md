@@ -10,7 +10,7 @@
 </a>
 ## 🌐 Socials:
 <a href="https://www.instagram.com/Vahid67Eb/">
-  <img align="left" alt="Vahid67Eb's Instagram" width="20px" height="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+  <img align="left" alt="Vahid67Eb's Instagram" width="30px" height="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
