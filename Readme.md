@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="50" height="50">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" width="50" height="50">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/512px-Android_Studio_Trademark.svg.png?20210519132050" alt="Android Studio" width="50" height="50">
+    <img src="https://github.com/Vahid67eb/Vahid67eb/blob/b47ed98e35196861c13ac5f757d81361b774a9c5/android-studio-icon.png" alt="Android Studio" width="50" height="50">
     <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="Visual Studio" width="50" height="50">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">
 </p>
