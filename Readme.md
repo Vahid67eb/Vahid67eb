@@ -16,9 +16,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ebrahimianvahid)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vahid67eb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahid-ebrahimian-842664239/)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vahidebrahimian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/vahidebrahimian?trk=profile-badge">Vahid Ebrahimian</a></div>
-              
+           
 ---
 - 💼 any freelance work? do reach, [Gmail](Vahid67Ebrahimian@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
